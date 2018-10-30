@@ -6,8 +6,8 @@ int main()
 	printf("enter the number:");
 	scanf("%d", &a);
 	b = a;
-	while (b!=0)
-    		{
+	while (b!=0)//while loop
+    		{				
     			b = b/10;
     			++e;
     		}
