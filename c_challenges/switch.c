@@ -2,9 +2,9 @@
 
 int main()
 {
-	int a;
+	int a; /*initialisation
 	int b;
-	int c;
+	int c;               */
 	printf("Enter 2 numbers: \n");
 	scanf("%d%d",&a,&b);
 	printf("please enter what operation you want to perform on them: \n");
